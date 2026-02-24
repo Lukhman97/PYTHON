@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Internal JavaScript Example</title>
+
+  <script>
+    // This function changes text and color when button is clicked
+    function changeText() {
+      let heading = document.getElementById("myHeading");
+      heading.innerHTML = "You clicked the button! 🎉";
+      heading.style.color = "blue";
+      heading.style.fontSize = "28px";
+    }
+  </script>
+</head>
+
+<body style="text-align: center; margin-top: 100px;">
+
+  <h2 id="myHeading">Click the button to change this text</h2>
+  <button onclick="changeText()">Click Me</button>
+
+</body>
+</html>

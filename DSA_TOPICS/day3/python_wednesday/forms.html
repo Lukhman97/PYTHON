@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Navbar with Dropdown</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      
+    }
+
+    .nav {
+      display: flex;
+      background: #222;
+      padding: 12px 20px;
+  
+    }
+
+    .nav div {
+      margin: 0 15px;
+      color: white;
+      cursor: pointer;
+      position: relative;
+      transition: color 0.3s ease;
+      
+    }
+
+    /* Hover */
+    .nav div:hover {
+      color: orange;
+    
+    }
+
+    /* Underline animation */
+    .nav div::after {
+      content: "";
+      position: absolute;
+      bottom: -5px;
+      left: 0;
+      width: 0;
+      height: 2px;
+      background: orange;
+      transition: width 0.3s ease;
+      
+    }
+    .nav div:hover::after {
+      width: 100%;
+      
+    }
+
+    /* Dropdown menu */
+    .dropdown {
+      position: relative;
+    }
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      top: 0px;
+      left: 0;
+      background: #333;
+      padding: 10px 0;
+      border-radius: 4px;
+      min-width: 120px;
+    }
+    .dropdown-content div {
+      padding: 8px 15px;
+      color: white;
+      transition: background 0.3s ease;
+    }
+    .dropdown-content div:hover {
+      background: orange;
+      color: black;
+    }
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+    .drop{
+        display: none;
+    }
+
+    .b:hover .drop{
+        display: block;
+    }
+  </style>
+</head>
+<body style="background-color: rgb(187, 135, 236);">
+  <div class="nav">
+    <div class="dropdown">Courses
+      <div class="dropdown-content">
+        <div>HTML</div>
+        <div>CSS</div>
+        <div>JavaScript</div>
+      </div>
+    </div>
+    <div class="b">For Students
+        <div class="drop">
+        <div>HTML</div>
+        <div>CSS</div>
+        <div>JavaScript</div>
+        </div>
+    </div>
+    <div>Placement</div>
+    <div>Practice</div>
+  </div>
+</body>
+</html>

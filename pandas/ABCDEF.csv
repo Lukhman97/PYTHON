@@ -1,0 +1,201 @@
+,OrderID,CustomerName,Region,ProductName,Category,Quantity,Price,PaymentMethod,OrderDate,TotalAmount,Discount(%),DeliveryStatus,DeliveryDays
+0,1000,Customer_3,South,Product_7,Furniture,3,1566.0,Net Banking,2024-01-01,4698.0,0,Delivered,9
+1,1001,Customer_47,South,Product_47,Electronics,3,602.79,Credit Card,2024-01-02,1808.37,20,Pending,4
+2,1002,Customer_1,East,Product_37,Furniture,13,1297.48,Cash,2024-01-03,16867.24,10,Delivered,6
+3,1003,Customer_88,North,Product_18,Furniture,17,842.9,Credit Card,2024-01-04,14329.3,5,Pending,7
+4,1004,Customer_100,East,Product_11,Electronics,13,282.14,Cash,2024-01-05,3667.82,20,Pending,10
+5,1005,Customer_56,East,Product_43,Electronics,17,729.45,Net Banking,2024-01-06,12400.65,20,Delivered,1
+6,1006,Customer_78,East,Product_26,Toys,11,1559.64,Net Banking,2024-01-07,17156.04,10,Cancelled,7
+7,1007,Customer_95,West,Product_45,Toys,3,534.76,Cash,2024-01-08,1604.28,0,Pending,4
+8,1008,Customer_8,East,Product_26,Furniture,1,1628.1,UPI,2024-01-09,1628.1,10,Delivered,2
+9,1009,Customer_11,South,Product_49,Toys,19,1992.2,Net Banking,2024-01-10,37851.8,10,Pending,8
+10,1010,Customer_64,East,Product_3,Clothing,11,594.24,Net Banking,2024-01-11,6536.64,0,Pending,1
+11,1011,Customer_35,East,Product_38,Electronics,11,1459.7,Net Banking,2024-01-12,16056.7,5,Delivered,5
+12,1012,Customer_78,North,Product_38,Grocery,5,1622.38,Net Banking,2024-01-13,8111.900000000001,20,Pending,2
+13,1013,Customer_44,East,Product_17,Electronics,19,997.97,Cash,2024-01-14,18961.43,15,Cancelled,9
+14,1014,Customer_9,East,Product_32,Furniture,11,841.04,Net Banking,2024-01-15,9251.44,0,Pending,1
+15,1015,Customer_92,West,Product_34,Toys,14,1201.68,Cash,2024-01-16,16823.52,20,Pending,8
+16,1016,Customer_86,South,Product_1,Clothing,16,506.9,Credit Card,2024-01-17,8110.4,20,Cancelled,9
+17,1017,Customer_7,North,Product_30,Electronics,13,952.82,Net Banking,2024-01-18,12386.66,20,Delivered,2
+18,1018,Customer_40,East,Product_42,Furniture,1,1037.69,Cash,2024-01-19,1037.69,15,Pending,6
+19,1019,Customer_59,West,Product_45,Furniture,18,604.2,Credit Card,2024-01-20,10875.6,5,Cancelled,3
+20,1020,Customer_95,South,Product_40,Grocery,13,168.0,Net Banking,2024-01-21,2184.0,15,Delivered,2
+21,1021,Customer_92,West,Product_32,Toys,12,1378.72,Net Banking,2024-01-22,16544.64,5,Delivered,5
+22,1022,Customer_4,South,Product_49,Electronics,12,1229.69,Net Banking,2024-01-23,14756.28,10,Delivered,5
+23,1023,Customer_6,West,Product_43,Electronics,15,1219.2,UPI,2024-01-24,18288.0,20,Cancelled,4
+24,1024,Customer_97,East,Product_15,Clothing,6,1775.0,Net Banking,2024-01-25,10650.0,0,Cancelled,7
+25,1025,Customer_68,South,Product_7,Electronics,2,1510.31,UPI,2024-01-26,3020.62,20,Delivered,9
+26,1026,Customer_98,East,Product_8,Clothing,11,1021.56,UPI,2024-01-27,11237.16,10,Pending,7
+27,1027,Customer_75,West,Product_17,Clothing,10,775.18,Credit Card,2024-01-28,7751.799999999999,20,Pending,10
+28,1028,Customer_7,North,Product_13,Toys,3,162.86,Credit Card,2024-01-29,488.58,5,Cancelled,5
+29,1029,Customer_72,East,Product_34,Electronics,11,564.71,UPI,2024-01-30,6211.81,0,Pending,6
+30,1030,Customer_13,West,Product_16,Grocery,15,1559.92,Cash,2024-01-31,23398.800000000003,0,Delivered,5
+31,1031,Customer_53,North,Product_8,Grocery,11,494.88,Net Banking,2024-02-01,5443.68,0,Pending,7
+32,1032,Customer_5,North,Product_11,Furniture,10,1027.67,Credit Card,2024-02-02,10276.7,20,Delivered,10
+33,1033,Customer_88,East,Product_49,Electronics,3,1713.51,Cash,2024-02-03,5140.53,5,Delivered,8
+34,1034,Customer_5,East,Product_2,Grocery,6,1263.34,Credit Card,2024-02-04,7580.039999999999,15,Delivered,4
+35,1035,Customer_69,West,Product_24,Furniture,12,1980.85,Credit Card,2024-02-05,23770.2,15,Pending,10
+36,1036,Customer_18,East,Product_30,Toys,5,653.74,Net Banking,2024-02-06,3268.7,5,Delivered,4
+37,1037,Customer_21,North,Product_18,Clothing,8,1337.43,Net Banking,2024-02-07,10699.44,15,Delivered,8
+38,1038,Customer_41,East,Product_21,Toys,2,974.64,Cash,2024-02-08,1949.28,15,Cancelled,10
+39,1039,Customer_23,South,Product_6,Electronics,1,652.6,Net Banking,2024-02-09,652.6,0,Cancelled,8
+40,1040,Customer_84,South,Product_12,Electronics,20,856.17,Credit Card,2024-02-10,17123.399999999998,20,Delivered,10
+41,1041,Customer_39,West,Product_41,Toys,8,1251.12,Cash,2024-02-11,10008.96,5,Cancelled,8
+42,1042,Customer_57,West,Product_1,Furniture,10,1882.52,Credit Card,2024-02-12,18825.2,5,Cancelled,10
+43,1043,Customer_14,West,Product_37,Electronics,4,890.01,Cash,2024-02-13,3560.04,5,Delivered,3
+44,1044,Customer_12,South,Product_33,Electronics,14,1043.74,Cash,2024-02-14,14612.36,15,Delivered,3
+45,1045,Customer_14,North,Product_41,Clothing,1,557.19,UPI,2024-02-15,557.19,5,Cancelled,9
+46,1046,Customer_91,West,Product_18,Toys,4,474.71,Cash,2024-02-16,1898.84,5,Pending,4
+47,1047,Customer_86,South,Product_8,Clothing,10,217.57,UPI,2024-02-17,2175.7,15,Delivered,8
+48,1048,Customer_88,East,Product_41,Furniture,11,1482.26,Credit Card,2024-02-18,16304.86,10,Pending,10
+49,1049,Customer_19,West,Product_40,Toys,5,1920.53,Credit Card,2024-02-19,9602.65,10,Cancelled,7
+50,1050,Customer_14,East,Product_10,Furniture,10,1387.3,Credit Card,2024-02-20,13873.0,15,Delivered,5
+51,1051,Customer_85,East,Product_49,Toys,8,1214.91,Credit Card,2024-02-21,9719.28,15,Cancelled,9
+52,1052,Customer_7,South,Product_11,Grocery,13,1732.35,Cash,2024-02-22,22520.55,5,Cancelled,4
+53,1053,Customer_59,North,Product_29,Electronics,4,898.14,UPI,2024-02-23,3592.56,0,Pending,2
+54,1054,Customer_95,East,Product_23,Grocery,7,169.94,UPI,2024-02-24,1189.58,10,Pending,9
+55,1055,Customer_1,North,Product_19,Grocery,11,1576.84,UPI,2024-02-25,17345.239999999998,0,Pending,5
+56,1056,Customer_90,North,Product_43,Grocery,4,1786.96,Cash,2024-02-26,7147.84,5,Cancelled,3
+57,1057,Customer_58,West,Product_29,Electronics,6,499.36,Credit Card,2024-02-27,2996.16,15,Delivered,2
+58,1058,Customer_39,East,Product_50,Clothing,3,1523.31,Credit Card,2024-02-28,4569.93,10,Pending,5
+59,1059,Customer_61,South,Product_6,Furniture,4,262.14,Cash,2024-02-29,1048.56,0,Pending,6
+60,1060,Customer_51,West,Product_3,Grocery,19,1865.14,Credit Card,2024-03-01,35437.66,5,Delivered,5
+61,1061,Customer_91,North,Product_40,Electronics,12,120.75,Credit Card,2024-03-02,1449.0,15,Cancelled,2
+62,1062,Customer_37,South,Product_42,Clothing,20,305.97,UPI,2024-03-03,6119.400000000001,0,Pending,8
+63,1063,Customer_92,North,Product_39,Furniture,7,1860.9,Net Banking,2024-03-04,13026.3,15,Cancelled,1
+64,1064,Customer_13,South,Product_5,Toys,1,1237.83,UPI,2024-03-05,1237.83,5,Cancelled,9
+65,1065,Customer_72,East,Product_26,Furniture,13,520.17,Credit Card,2024-03-06,6762.209999999999,10,Cancelled,6
+66,1066,Customer_19,East,Product_8,Furniture,11,1356.75,UPI,2024-03-07,14924.25,15,Delivered,8
+67,1067,Customer_40,South,Product_42,Furniture,18,1550.96,Cash,2024-03-08,27917.28,20,Delivered,6
+68,1068,Customer_69,West,Product_9,Grocery,16,326.68,Cash,2024-03-09,5226.88,10,Pending,7
+69,1069,Customer_49,North,Product_40,Electronics,13,377.29,UPI,2024-03-10,4904.77,15,Cancelled,2
+70,1070,Customer_60,South,Product_33,Electronics,7,1655.96,Net Banking,2024-03-11,11591.72,10,Cancelled,2
+71,1071,Customer_83,West,Product_37,Toys,14,784.51,UPI,2024-03-12,10983.14,5,Cancelled,1
+72,1072,Customer_41,South,Product_6,Furniture,3,1713.51,UPI,2024-03-13,5140.53,15,Cancelled,2
+73,1073,Customer_9,West,Product_45,Toys,13,1676.19,Net Banking,2024-03-14,21790.47,15,Pending,10
+74,1074,Customer_39,West,Product_9,Toys,5,1842.86,UPI,2024-03-15,9214.3,5,Pending,7
+75,1075,Customer_89,East,Product_17,Toys,3,1267.04,Cash,2024-03-16,3801.12,15,Delivered,5
+76,1076,Customer_46,West,Product_35,Toys,16,273.3,Credit Card,2024-03-17,4372.8,5,Pending,4
+77,1077,Customer_25,South,Product_32,Toys,17,1998.91,Net Banking,2024-03-18,33981.47,10,Pending,8
+78,1078,Customer_2,South,Product_36,Grocery,3,599.3,Cash,2024-03-19,1797.9,0,Cancelled,9
+79,1079,Customer_17,West,Product_48,Toys,4,1330.35,Credit Card,2024-03-20,5321.4,20,Delivered,8
+80,1080,Customer_24,East,Product_24,Clothing,8,1291.9,Credit Card,2024-03-21,10335.2,0,Pending,6
+81,1081,Customer_45,North,Product_8,Furniture,18,522.58,UPI,2024-03-22,9406.44,5,Delivered,10
+82,1082,Customer_64,South,Product_5,Toys,5,1772.87,Credit Card,2024-03-23,8864.349999999999,20,Cancelled,6
+83,1083,Customer_51,East,Product_43,Grocery,10,780.89,UPI,2024-03-24,7808.9,15,Pending,5
+84,1084,Customer_98,East,Product_13,Furniture,9,1869.41,UPI,2024-03-25,16824.690000000002,5,Pending,3
+85,1085,Customer_68,West,Product_38,Grocery,18,250.41,Cash,2024-03-26,4507.38,5,Cancelled,4
+86,1086,Customer_3,East,Product_13,Furniture,3,1575.23,Cash,2024-03-27,4725.6900000000005,20,Cancelled,1
+87,1087,Customer_54,West,Product_8,Furniture,14,1259.87,Cash,2024-03-28,17638.18,15,Delivered,7
+88,1088,Customer_58,West,Product_8,Toys,14,1310.73,Net Banking,2024-03-29,18350.22,15,Cancelled,2
+89,1089,Customer_33,North,Product_5,Furniture,8,646.2,Net Banking,2024-03-30,5169.6,10,Pending,9
+90,1090,Customer_23,East,Product_10,Furniture,19,1512.43,Cash,2024-03-31,28736.17,10,Delivered,10
+91,1091,Customer_100,North,Product_36,Furniture,15,1453.26,UPI,2024-04-01,21798.9,15,Pending,9
+92,1092,Customer_95,West,Product_3,Toys,10,1058.76,Cash,2024-04-02,10587.6,20,Pending,3
+93,1093,Customer_68,West,Product_13,Grocery,18,770.18,Net Banking,2024-04-03,13863.24,20,Pending,9
+94,1094,Customer_22,North,Product_38,Clothing,20,446.14,Cash,2024-04-04,8922.8,10,Delivered,3
+95,1095,Customer_24,South,Product_32,Grocery,8,1280.16,Net Banking,2024-04-05,10241.28,15,Cancelled,4
+96,1096,Customer_19,East,Product_2,Electronics,10,1005.98,Net Banking,2024-04-06,10059.8,0,Cancelled,1
+97,1097,Customer_57,West,Product_50,Electronics,5,539.12,Net Banking,2024-04-07,2695.6,10,Delivered,7
+98,1098,Customer_15,West,Product_2,Grocery,8,281.28,Credit Card,2024-04-08,2250.24,15,Pending,7
+99,1099,Customer_60,North,Product_5,Toys,5,1606.84,Cash,2024-04-09,8034.2,15,Delivered,5
+100,1100,Customer_79,East,Product_20,Toys,8,481.08,Cash,2024-04-10,3848.64,0,Cancelled,4
+101,1101,Customer_75,North,Product_30,Grocery,8,618.54,Cash,2024-04-11,4948.32,20,Pending,2
+102,1102,Customer_3,West,Product_20,Clothing,20,1592.66,Net Banking,2024-04-12,31853.2,20,Pending,2
+103,1103,Customer_85,East,Product_4,Clothing,13,1503.07,Cash,2024-04-13,19539.91,5,Delivered,7
+104,1104,Customer_2,East,Product_48,Furniture,17,1389.35,Net Banking,2024-04-14,23618.95,20,Pending,3
+105,1105,Customer_41,West,Product_7,Clothing,14,1724.55,UPI,2024-04-15,24143.7,15,Cancelled,4
+106,1106,Customer_23,West,Product_18,Toys,9,1451.38,UPI,2024-04-16,13062.420000000002,5,Pending,8
+107,1107,Customer_100,North,Product_12,Furniture,18,602.08,Credit Card,2024-04-17,10837.44,20,Cancelled,8
+108,1108,Customer_67,East,Product_34,Furniture,6,196.25,Cash,2024-04-18,1177.5,10,Delivered,10
+109,1109,Customer_86,East,Product_40,Grocery,20,1834.61,Cash,2024-04-19,36692.2,15,Cancelled,9
+110,1110,Customer_56,South,Product_20,Toys,15,1706.53,Cash,2024-04-20,25597.95,20,Cancelled,6
+111,1111,Customer_43,East,Product_22,Electronics,9,106.3,Net Banking,2024-04-21,956.7,10,Delivered,2
+112,1112,Customer_24,West,Product_46,Electronics,20,507.46,UPI,2024-04-22,10149.2,5,Pending,3
+113,1113,Customer_33,West,Product_50,Grocery,5,222.99,Net Banking,2024-04-23,1114.95,10,Cancelled,1
+114,1114,Customer_8,North,Product_5,Toys,4,1320.21,Credit Card,2024-04-24,5280.84,10,Cancelled,7
+115,1115,Customer_37,East,Product_33,Grocery,9,1646.63,Credit Card,2024-04-25,14819.670000000002,5,Delivered,3
+116,1116,Customer_5,North,Product_22,Clothing,9,1566.29,Net Banking,2024-04-26,14096.61,15,Pending,5
+117,1117,Customer_10,East,Product_11,Grocery,11,862.03,Credit Card,2024-04-27,9482.33,0,Delivered,7
+118,1118,Customer_12,South,Product_34,Toys,5,1612.99,Cash,2024-04-28,8064.95,20,Delivered,7
+119,1119,Customer_18,East,Product_30,Toys,16,1011.44,Cash,2024-04-29,16183.04,5,Delivered,6
+120,1120,Customer_99,South,Product_48,Toys,1,571.0,Cash,2024-04-30,571.0,15,Delivered,5
+121,1121,Customer_56,East,Product_24,Clothing,10,822.69,UPI,2024-05-01,8226.900000000001,5,Pending,2
+122,1122,Customer_15,East,Product_1,Furniture,3,1535.99,Credit Card,2024-05-02,4607.97,5,Pending,5
+123,1123,Customer_93,East,Product_14,Grocery,14,617.14,UPI,2024-05-03,8639.96,10,Cancelled,8
+124,1124,Customer_98,North,Product_10,Electronics,14,1432.61,UPI,2024-05-04,20056.54,5,Delivered,9
+125,1125,Customer_16,East,Product_44,Clothing,13,473.56,Net Banking,2024-05-05,6156.28,15,Delivered,4
+126,1126,Customer_17,West,Product_26,Clothing,17,1199.25,UPI,2024-05-06,20387.25,5,Delivered,6
+127,1127,Customer_2,West,Product_46,Grocery,15,430.72,Credit Card,2024-05-07,6460.8,5,Delivered,6
+128,1128,Customer_15,South,Product_49,Grocery,11,146.09,Credit Card,2024-05-08,1606.99,0,Delivered,4
+129,1129,Customer_87,North,Product_24,Clothing,16,1743.29,Credit Card,2024-05-09,27892.64,15,Pending,2
+130,1130,Customer_86,West,Product_19,Clothing,9,960.43,Credit Card,2024-05-10,8643.869999999999,0,Delivered,9
+131,1131,Customer_26,North,Product_3,Toys,11,648.1,UPI,2024-05-11,7129.1,20,Pending,3
+132,1132,Customer_67,West,Product_29,Clothing,19,718.4,Net Banking,2024-05-12,13649.6,0,Delivered,5
+133,1133,Customer_92,West,Product_3,Clothing,12,1400.5,Credit Card,2024-05-13,16806.0,0,Pending,1
+134,1134,Customer_62,East,Product_32,Electronics,9,1948.98,Cash,2024-05-14,17540.82,20,Delivered,6
+135,1135,Customer_41,East,Product_50,Electronics,5,1791.04,Cash,2024-05-15,8955.2,20,Pending,2
+136,1136,Customer_4,East,Product_41,Clothing,2,484.67,UPI,2024-05-16,969.34,20,Delivered,4
+137,1137,Customer_86,North,Product_43,Clothing,8,1266.53,Cash,2024-05-17,10132.24,5,Cancelled,2
+138,1138,Customer_34,South,Product_49,Furniture,17,584.17,Net Banking,2024-05-18,9930.89,0,Cancelled,9
+139,1139,Customer_73,East,Product_29,Furniture,2,926.52,UPI,2024-05-19,1853.04,10,Pending,8
+140,1140,Customer_5,West,Product_47,Electronics,17,1580.04,Credit Card,2024-05-20,26860.68,15,Pending,8
+141,1141,Customer_87,East,Product_41,Toys,10,1561.51,Cash,2024-05-21,15615.1,5,Cancelled,9
+142,1142,Customer_14,West,Product_14,Furniture,16,1347.05,Cash,2024-05-22,21552.8,20,Pending,10
+143,1143,Customer_34,East,Product_34,Clothing,2,1616.81,UPI,2024-05-23,3233.62,5,Delivered,2
+144,1144,Customer_38,South,Product_13,Clothing,12,1083.9,Credit Card,2024-05-24,13006.8,20,Pending,2
+145,1145,Customer_52,West,Product_50,Toys,19,909.31,UPI,2024-05-25,17276.89,0,Cancelled,2
+146,1146,Customer_99,South,Product_12,Furniture,4,1804.89,Cash,2024-05-26,7219.56,5,Delivered,5
+147,1147,Customer_61,North,Product_8,Furniture,9,1165.51,Credit Card,2024-05-27,10489.59,0,Pending,5
+148,1148,Customer_12,South,Product_17,Toys,16,1607.46,UPI,2024-05-28,25719.36,5,Cancelled,7
+149,1149,Customer_71,West,Product_34,Clothing,12,1823.37,Cash,2024-05-29,21880.44,15,Cancelled,7
+150,1150,Customer_61,North,Product_24,Toys,14,524.34,Credit Card,2024-05-30,7340.76,0,Pending,2
+151,1151,Customer_69,West,Product_30,Electronics,3,795.57,Net Banking,2024-05-31,2386.71,20,Cancelled,4
+152,1152,Customer_62,North,Product_29,Electronics,15,647.68,Credit Card,2024-06-01,9715.2,20,Cancelled,1
+153,1153,Customer_57,West,Product_3,Grocery,17,735.55,Credit Card,2024-06-02,12504.35,0,Pending,10
+154,1154,Customer_5,West,Product_34,Toys,9,962.61,Cash,2024-06-03,8663.49,15,Cancelled,6
+155,1155,Customer_55,South,Product_1,Toys,4,1966.93,UPI,2024-06-04,7867.72,10,Pending,8
+156,1156,Customer_85,South,Product_48,Grocery,13,1866.24,Cash,2024-06-05,24261.12,5,Cancelled,1
+157,1157,Customer_98,North,Product_15,Electronics,13,1796.53,Net Banking,2024-06-06,23354.89,5,Pending,6
+158,1158,Customer_27,West,Product_15,Electronics,17,911.16,Credit Card,2024-06-07,15489.72,10,Pending,6
+159,1159,Customer_30,East,Product_12,Furniture,4,1780.77,Net Banking,2024-06-08,7123.08,10,Delivered,10
+160,1160,Customer_36,South,Product_46,Electronics,3,900.94,Net Banking,2024-06-09,2702.82,0,Pending,10
+161,1161,Customer_36,South,Product_26,Grocery,15,1983.76,Credit Card,2024-06-10,29756.4,5,Pending,4
+162,1162,Customer_39,East,Product_3,Grocery,3,244.76,Cash,2024-06-11,734.28,5,Delivered,7
+163,1163,Customer_72,South,Product_26,Furniture,19,1737.75,Credit Card,2024-06-12,33017.25,5,Pending,1
+164,1164,Customer_81,East,Product_45,Grocery,17,1460.54,Cash,2024-06-13,24829.18,20,Delivered,6
+165,1165,Customer_31,North,Product_1,Toys,6,1999.91,UPI,2024-06-14,11999.46,15,Cancelled,9
+166,1166,Customer_52,East,Product_50,Electronics,11,1473.85,UPI,2024-06-15,16212.35,15,Delivered,2
+167,1167,Customer_5,West,Product_31,Toys,9,1609.6,Cash,2024-06-16,14486.4,20,Delivered,4
+168,1168,Customer_3,South,Product_6,Toys,2,1956.23,Net Banking,2024-06-17,3912.46,5,Pending,4
+169,1169,Customer_81,North,Product_36,Toys,8,1793.08,Credit Card,2024-06-18,14344.64,15,Pending,2
+170,1170,Customer_35,South,Product_46,Electronics,10,776.72,Net Banking,2024-06-19,7767.200000000001,0,Cancelled,5
+171,1171,Customer_60,West,Product_50,Furniture,1,1248.19,Credit Card,2024-06-20,1248.19,10,Delivered,7
+172,1172,Customer_99,North,Product_5,Grocery,6,959.53,UPI,2024-06-21,5757.18,10,Delivered,10
+173,1173,Customer_70,North,Product_23,Electronics,20,1378.96,UPI,2024-06-22,27579.2,20,Delivered,8
+174,1174,Customer_53,West,Product_28,Toys,12,1152.77,Credit Card,2024-06-23,13833.24,15,Delivered,1
+175,1175,Customer_36,West,Product_15,Clothing,7,1917.21,Cash,2024-06-24,13420.47,5,Delivered,4
+176,1176,Customer_96,West,Product_2,Furniture,11,1957.66,Net Banking,2024-06-25,21534.26,10,Pending,7
+177,1177,Customer_49,North,Product_23,Toys,3,1892.7,Net Banking,2024-06-26,5678.1,15,Cancelled,2
+178,1178,Customer_57,North,Product_10,Furniture,15,1383.1,Credit Card,2024-06-27,20746.5,0,Delivered,9
+179,1179,Customer_26,North,Product_34,Grocery,3,957.01,Net Banking,2024-06-28,2871.03,5,Delivered,3
+180,1180,Customer_13,North,Product_44,Furniture,5,744.79,Cash,2024-06-29,3723.95,20,Pending,10
+181,1181,Customer_10,South,Product_21,Grocery,18,780.71,Credit Card,2024-06-30,14052.78,5,Cancelled,10
+182,1182,Customer_66,East,Product_6,Clothing,12,1819.94,Credit Card,2024-07-01,21839.28,20,Delivered,4
+183,1183,Customer_59,East,Product_45,Electronics,6,1272.83,Credit Card,2024-07-02,7636.98,0,Delivered,8
+184,1184,Customer_48,South,Product_6,Furniture,13,1545.85,UPI,2024-07-03,20096.05,5,Cancelled,6
+185,1185,Customer_39,West,Product_21,Furniture,17,693.49,UPI,2024-07-04,11789.33,15,Delivered,4
+186,1186,Customer_69,East,Product_46,Grocery,7,1297.91,Credit Card,2024-07-05,9085.37,20,Pending,4
+187,1187,Customer_28,South,Product_21,Clothing,13,1256.85,Cash,2024-07-06,16339.05,0,Delivered,3
+188,1188,Customer_69,South,Product_18,Grocery,17,1903.51,Cash,2024-07-07,32359.67,5,Delivered,2
+189,1189,Customer_76,North,Product_17,Furniture,11,1746.81,Credit Card,2024-07-08,19214.91,10,Cancelled,7
+190,1190,Customer_69,West,Product_1,Furniture,18,886.37,Net Banking,2024-07-09,15954.66,5,Cancelled,5
+191,1191,Customer_16,North,Product_27,Electronics,17,252.85,UPI,2024-07-10,4298.45,15,Cancelled,1
+192,1192,Customer_87,South,Product_33,Grocery,3,1011.16,Cash,2024-07-11,3033.48,20,Pending,1
+193,1193,Customer_53,South,Product_7,Grocery,10,1409.53,Net Banking,2024-07-12,14095.3,15,Cancelled,8
+194,1194,Customer_90,South,Product_38,Clothing,12,1863.06,UPI,2024-07-13,22356.72,0,Pending,3
+195,1195,Customer_58,North,Product_13,Electronics,19,1753.82,Credit Card,2024-07-14,33322.58,5,Delivered,4
+196,1196,Customer_11,North,Product_14,Clothing,17,187.0,Net Banking,2024-07-15,3179.0,20,Pending,3
+197,1197,Customer_22,South,Product_43,Furniture,6,790.79,Cash,2024-07-16,4744.74,10,Delivered,7
+198,1198,Customer_87,North,Product_50,Clothing,18,710.68,Credit Card,2024-07-17,12792.24,0,Pending,3
+199,1199,Customer_65,East,Product_14,Toys,13,1393.97,Cash,2024-07-18,18121.61,0,Delivered,1
